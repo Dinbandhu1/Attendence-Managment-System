@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 28, 2018, 8:22:56 AM
+    Author     : DINBHANDU
+*/
+
+body{
+    background-color: skyblue;
+    background-image: url("images/books.jpg");
+
+}
+#form{
+    background-color: #3fc35f;
+    min-height: 600px;
+    padding: 5px 40px 40px;
+    position: absolute;
+
+    left: 20%;
+
+}
+#addcourse{
+    background-color: #3fc35f;
+    height: 350px;
+    padding: 5px 20px 20px;
+    position: absolute;
+    
+    left: 25%;
+    margin-top:35px;
+}
+.registration{
+    font-size: 55px;
+    font-family: Agency FB;
+    font-weight: 700;
+    border-bottom-style: ridge;
+}
+
+.text{
+    height:33px;
+
+}
+label{
+    font-size: 18px;
+
+}
+.btn-primary{
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    background: #efed40;
+    color: #262626;
+}
+.btn-danger{
+    border-radius: 10px;
+    padding: 10px;
+    width: 50%;
+    float: right;
+    background: springgreen;
+    color: #262626;
+}
+.txt2:hover{
+    color:#9933ff;
+}
+
+.txt2{
+    padding: 18px;
+    margin: 35px;
+    color:white;
+    font-size: 18px;
+    font-style: oblique;
+
+}
+.courseimg{
+    background-size: cover;
+    height: 100%;
+    width:100%;
+    
+    
+}
+.clist{
+    
+    position: absolute;
+    bottom: 0px;
+    left: 350px; 
+    width: 600px;
+    top:60px;
+}
+#search{
+    border: 2px;
+}
